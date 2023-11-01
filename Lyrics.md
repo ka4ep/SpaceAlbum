@@ -3,8 +3,58 @@ Fading in with crowds and tech sounds
 #
 Escape to shuttle      -  Fight		
 ###
-Write song lyrics about astronauts-to-be requiring to leave the Earth urgently on a star ship due to catastrophe. So they try to find the star ship and then successfully get on that and ready start their journey. Song is in 4/4. First verse is upbeat, second is downbeat, third is upbeat, fourth is downbeat. Fifth verse is downbeat, half time and describes emotions after successfully getting on board.
+Write song lyrics in death metal style about colonists requiring to leave the Earth urgently on a space shuttle due to ongoing catastrophe. Some strong language may be used. Specific space flight details are required too. Idea is that colonists try to find the star ship and then successfully get on that and ready start their journey. Song is in 5/8. It has two verses, two bridges and no choruses. First verse is upbeat, then bridge is downbeat. Second verse is upbeat, then bridge is downbeat.
+```ChatGPT version:
 
+(Verse 1 - upbeat)
+In a world ablaze, chaos reigns supreme,
+Colonists seeking refuge, a desperate dream,
+Amidst the devastation, they rise above,
+Boarding the shuttle, bound for the stars they love.
+
+(Bridge 1 - downbeat)
+The Earth crumbles, a wasteland of despair,
+But hope ignites within, a flame they share,
+Through the wreckage and ruins, they fight,
+To find the star ship, their beacon of light.
+
+(Verse 2 - upbeat)
+Engines roaring, the shuttle takes flight,
+Defying gravity, soaring through the night,
+In the face of destruction, they stand tall,
+Leaving behind the ashes, answering the call.
+
+(Bridge 2 - downbeat)
+A mournful cry echoes, for what's been lost,
+But they push forward, no matter the cost,
+In the void of space, their destiny awaits,
+A new home to conquer, beyond the gates.
+
+(Bridge 1 - downbeat)
+The Earth crumbles, a wasteland of despair,
+But hope ignites within, a flame they share,
+Through the wreckage and ruins, they fight,
+To find the star ship, their beacon of light.
+
+(Verse 2 - upbeat)
+With every heartbeat, they venture on,
+Through cosmic storms, their courage won't be gone,
+Navigating the unknown, they strive,
+To ensure humanity's survival, they'll thrive.
+
+(Bridge 2 - downbeat)
+A mournful cry echoes, for what's been lost,
+But they push forward, no matter the cost,
+In the void of space, their destiny awaits,
+A new home to conquer, beyond the gates.
+
+(Outro)
+In the depths of space, their journey unfolds,
+Colonists united, their spirits bold,
+Leaving behind the chaos, they ascend,
+To a future unknown, where their hopes won't end.
+
+```
 #
 Departure from Earth   -  Blast song (Toxic)
 #
