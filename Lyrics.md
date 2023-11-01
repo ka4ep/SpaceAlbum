@@ -1,8 +1,17 @@
+#
 Fading in with crowds and tech sounds
+#
 Escape to shuttle      -  Fight		
+###
+Write song lyrics about astronauts-to-be requiring to leave the Earth urgently on a star ship due to catastrophe. So they try to find the star ship and then successfully get on that and ready start their journey. Song is in 4/4. First verse is upbeat, second is downbeat, third is upbeat, fourth is downbeat. Fifth verse is downbeat, half time and describes emotions after successfully getting on board.
+
+#
 Departure from Earth   -  Blast song (Toxic)
+#
 Into Black hole        -  LoneDon
+#
 Throgh the wormhole    -  Polysong
+#
 Arriving to nebulae    -  Astral Gravity
 
 							Chorus:
