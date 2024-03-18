@@ -74,14 +74,17 @@ Arriving to nebulae    -  Astral Gravity
 								Effectively
 								By the gravity
 
+#
 Terraforming           -  Silenced 2
+
+#
 Water Replenishment    -  Levitation
 							
 							Chorus:
 								Oceans spread free
 								Saving colony
 							
-							
+#							
 Descending onto earth  -  Descend
 							
 							Chorus:
@@ -100,12 +103,13 @@ Descending onto earth  -  Descend
 								It gives me pride and will
 							Outro:
 								As I descend (x4)
-																
+#																
 Hymn to colonists      -  Andromeda
+
 							Verse1:
-								#Watching stars from the early days
-								#Praising gods in profound ways
-								#[wa-a-ys wa-a-ys ways]
+								Watching stars from the early days
+								Praising gods in profound ways
+								[wa-a-ys wa-a-ys ways]
 								
 								True glory consists in doing what deserves to be written;
 								In writing what deserves to be read [Pilny the Elder]
@@ -138,6 +142,7 @@ Hymn to colonists      -  Andromeda
 								Forming a fair society
 								Let ones to be what's best the're in
 
+#
 Assessment of life     -  Silenced 7
 
 							Intro part goes like rare chord buuummm ts ts ts buuummmmm							
@@ -159,8 +164,10 @@ Assessment of life     -  Silenced 7
 								But whe're strangers
 								
 							Acoustic fade out with solos
-
+#
 Robotization           -  Industrial
+
+#
 Final thoughts         -  'that' outro tune
 
 
