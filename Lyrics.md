@@ -1,7 +1,67 @@
+#
 Fading in with crowds and tech sounds
+#
 Escape to shuttle      -  Fight		
+###
+Write song lyrics in death metal style about colonists requiring to leave the Earth urgently on a space shuttle due to ongoing catastrophe. Some strong language may be used. Specific space flight details are required too. Idea is that colonists try to find the star ship and then successfully get on that and ready start their journey. Song is in 5/8. It has two verses, two bridges and no choruses. First verse is upbeat, then bridge is downbeat. Second verse is upbeat, then bridge is downbeat.
+```ChatGPT version:
+
+(Verse 1 - upbeat)
+In a world ablaze, chaos reigns supreme,
+Colonists seeking refuge, a desperate dream,
+Amidst the devastation, they rise above,
+Boarding the shuttle, bound for the stars they love.
+
+(Bridge 1 - downbeat)
+The Earth crumbles, a wasteland of despair,
+But hope ignites within, a flame they share,
+Through the wreckage and ruins, they fight,
+To find the star ship, their beacon of light.
+
+(Verse 2 - upbeat)
+Engines roaring, the shuttle takes flight,
+Defying gravity, soaring through the night,
+In the face of destruction, they stand tall,
+Leaving behind the ashes, answering the call.
+
+(Bridge 2 - downbeat)
+A mournful cry echoes, for what's been lost,
+But they push forward, no matter the cost,
+In the void of space, their destiny awaits,
+A new home to conquer, beyond the gates.
+
+(Bridge 1 - downbeat)
+The Earth crumbles, a wasteland of despair,
+But hope ignites within, a flame they share,
+Through the wreckage and ruins, they fight,
+To find the star ship, their beacon of light.
+
+(Verse 2 - upbeat)
+With every heartbeat, they venture on,
+Through cosmic storms, their courage won't be gone,
+Navigating the unknown, they strive,
+To ensure humanity's survival, they'll thrive.
+
+(Bridge 2 - downbeat)
+A mournful cry echoes, for what's been lost,
+But they push forward, no matter the cost,
+In the void of space, their destiny awaits,
+A new home to conquer, beyond the gates.
+
+(Outro)
+In the depths of space, their journey unfolds,
+Colonists united, their spirits bold,
+Leaving behind the chaos, they ascend,
+To a future unknown, where their hopes won't end.
+
+```
+#
 Departure from Earth   -  Blast song (Toxic)
-Cryogenic sleep        -  Polysong
+#
+Into Black hole        -  LoneDon
+#
+Throgh the wormhole    -  Polysong
+#
 Arriving to nebulae    -  Astral Gravity
 
 							Chorus:
@@ -14,7 +74,6 @@ Arriving to nebulae    -  Astral Gravity
 								Effectively
 								By the gravity
 
-Robotic Exploration    -  LoneDon
 Terraforming           -  Silenced 2
 Water Replenishment    -  Levitation
 							
@@ -81,7 +140,16 @@ Hymn to colonists      -  Andromeda
 
 Assessment of life     -  Silenced 7
 
-							Some part?:
+							Intro part goes like rare chord buuummm ts ts ts buuummmmm							
+							Lyrical melody							
+							Verse							
+							Chorus
+							Lyrical melody
+							Verse
+							Chorus
+							Acoutic bridge
+							Solo maybe?
+							Acoustic part?:
 								Anywhere we go
 								Just as soon as we've gone (left?)
 								Nothing changes
@@ -89,11 +157,11 @@ Assessment of life     -  Silenced 7
 								Millions years have gone
 								Should have bonded us all
 								But whe're strangers
+								
+							Acoustic fade out with solos
 
-Heavy machinery        -  Not Anymore
 Robotization           -  Industrial
 Final thoughts         -  'that' outro tune
-
 
 
 
