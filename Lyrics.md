@@ -1,5 +1,62 @@
 #
-Fading in with crowds and tech sounds
+Fading in with crowds and tech sounds ?...
+
+#
+Departure              -  Silenced 2
+#
+Reasoning              -  LoneDon
+```
+(Verse)
+Combatants of space squad nine,
+That's us, we burst of joy.
+Dozens of the eggheads are
+Just fine, under control.
+
+Must preserve their sanity
+And keep them off the craze.
+All we need is them to get through
+That thing that's dark as space.
+
+(Chorus)
+With scientific passion
+We dive [...or die]
+
+We're back, still standing, could've been worse,
+Almost have been dissolved.
+Thanks to noodle-brainiac
+That kept us off the hole.
+
+Now preparing for jump,
+Passing all procedures well.
+Let's face our doom and fate.
+They said this must be the gate.
+
+(Chorus)
+Blending in a swirly fasion
+We dive [...or die]
+
+
+
+```
+#
+Into Abyss             -  Blast song (Toxic)
+
+#
+Throgh the wormhole    -  Polysong
+#
+Arriving to nebulae    -  Astral Gravity
+
+							Chorus:
+								We feel, we see
+								What life's all about
+								Of life and death
+								Endless roundabout
+								Stargaze, compound
+								Moved by all around
+								Effectively
+								By the gravity
+
+
 #
 Escape to shuttle      -  Fight		
 ###
@@ -55,27 +112,7 @@ Leaving behind the chaos, they ascend,
 To a future unknown, where their hopes won't end.
 
 ```
-#
-Departure from Earth   -  Blast song (Toxic)
-#
-Into Black hole        -  LoneDon
-#
-Throgh the wormhole    -  Polysong
-#
-Arriving to nebulae    -  Astral Gravity
 
-							Chorus:
-								We feel, we see
-								What life's all about
-								Of life and death
-								Endless roundabout
-								Stargaze, compound
-								Moved by all around
-								Effectively
-								By the gravity
-
-#
-Terraforming           -  Silenced 2
 
 #
 Water Replenishment    -  Levitation
