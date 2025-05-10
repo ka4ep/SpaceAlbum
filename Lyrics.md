@@ -45,16 +45,26 @@ Into Abyss             -  Blast song (Toxic)
 Throgh the wormhole    -  Polysong
 #
 Arriving to nebulae    -  Astral Gravity
+	Verse 1:
+		Awake beyound the shadows of blackened sky,
+		We're all alive.
+		Silent whispers echo as the stars drift by,
+		Mobile ornaments...
+		A world unfolds a beacon in the void,
+		Giving us some hope.
+		A sphere resembles mother Earth we know,
+		It's time to go.
 
-							Chorus:
-								We feel, we see
-								What life's all about
-								Of life and death
-								Endless roundabout
-								Stargaze, compound
-								Moved by all around
-								Effectively
-								By the gravity
+	Chorus:
+		We feel, we see
+		What life's all about
+		Of life and death
+		Endless roundabout
+		Stargaze, compound
+		Moved by all around
+		Effectively
+		By the gravity
+		
 
 
 #
