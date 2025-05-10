@@ -45,6 +45,7 @@ Into Abyss             -  Blast song (Toxic)
 Throgh the wormhole    -  Polysong
 #
 Arriving to nebulae    -  Astral Gravity
+```
 	Verse 1:
 		Awake beyound the shadows of blackened sky,
 		We're all alive.
@@ -64,9 +65,9 @@ Arriving to nebulae    -  Astral Gravity
 		Moved by all around
 		Effectively
 		By the gravity
-		
+	
 
-
+```
 #
 Escape to shuttle      -  Fight		
 ###
