@@ -65,8 +65,21 @@ Arriving to nebulae    -  Astral Gravity
 		Moved by all around
 		Effectively
 		By the gravity
+		
+	Verse 2:
+		Vast nebulae paint vivid cosmic scene,
+		We never seen.
+		Symphony of colors, a celestial sheen,
+		We follow dreams.
+		We see a planet, teeming with life's design,
+		Fits with mankind.
+		A world to claim, as ours, will ever shine,
+		As we arrive.
+		
+	Intermedia.
 	
-
+	
+	
 ```
 #
 Escape to shuttle      -  Fight		
