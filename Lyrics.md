@@ -46,37 +46,57 @@ Throgh the wormhole    -  Polysong
 #
 Arriving to nebulae    -  Astral Gravity
 ```
-	Verse 1:
+	Verse:
 		Awake beyound the shadows of blackened sky,
 		We're all alive.
 		Silent whispers echo as the stars drift by,
 		Mobile ornaments...
 		A world unfolds a beacon in the void,
-		Giving us some hope.
-		A sphere resembles mother Earth we know,
+		Giving some hope.
+		That sphere resembles mother Earth we know,
 		It's time to go.
 
 	Chorus:
 		We feel, we see
-		What life's all about
+		What life's all about.
 		Of life and death
-		Endless roundabout
+		Endless roundabout.
 		Stargaze, compound
-		Moved by all around
+		Moved by all around.
 		Effectively
-		By the gravity
+		By the gravity.
 		
-	Verse 2:
-		Vast nebulae paint vivid cosmic scene,
-		We never seen.
+	Verse:
+		Vast nebulae paints vivid cosmic scene,
+		We've never seen.
 		Symphony of colors, a celestial sheen,
 		We follow dreams.
 		We see a planet, teeming with life's design,
 		Fits with mankind.
 		A world to claim, as ours, will ever shine,
-		As we arrive.
+		As we arrive...
 		
 	Intermedia.
+	
+	Chorus:
+		We feel, we see
+		What life's all about.
+		Of life and death
+		Endless roundabout.
+		We reach for stars
+		In emprise we take.
+		So let's fulfill
+		What we dare to undertake!
+	
+	Verse:
+		Vibrant landscape, oceans deep and wide,
+		The waters friendly.
+		Mountains towering beneath the starlit tide,
+		Snow caps are lite.
+		Breathe new life into these alien skies, -
+		A daring emprise.
+		New civilization from our hands
+		Shall rise...
 	
 	
 	
